@@ -17,12 +17,12 @@
   },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib/passport-yahoo",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-openid": "0.3.x"
+    "passport-openid-node6support": "git://github.com/OpenUserJs/passport-openid#OpenID2"
   },
   "devDependencies": {
     "vows": "0.6.x"
